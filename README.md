@@ -2,5 +2,5 @@
 
 # Beginner python examples
 
-* Basic Python Objects and Data Structures
-1. [Ask the user for two numbers and exchange their values with each other](https://github.com/nbenlin/beginners-python-examples/blob/master/1-Basic%20Python%20Objects%20and%20Data%20Structures/1_example.py)
+* <h2>Basic Python Objects and Data Structures<h2>
+  1. [Ask the user for two numbers and exchange their values with each other](https://github.com/nbenlin/beginners-python-examples/blob/master/1-Basic%20Python%20Objects%20and%20Data%20Structures/1_example.py)
