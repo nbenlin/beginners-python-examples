@@ -8,3 +8,4 @@
    3. [Body mass index](https://github.com/nbenlin/beginners-python-examples/blob/master/1-Basic%20Python%20Objects%20and%20Data%20Structures/3_example)
    
    ### Conditional Statements
+   1.[Body mass index v.2](https://github.com/nbenlin/beginners-python-examples/blob/master/2-Conditional%20statements/1_example.py)
