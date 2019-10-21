@@ -10,4 +10,4 @@
    ### Conditional Statements
    1. [Body mass index v.2](https://github.com/nbenlin/beginners-python-examples/blob/master/2-Conditional%20statements/1_example.py)
    2. [Largest number](https://github.com/nbenlin/beginners-python-examples/blob/master/2-Conditional%20statements/2_exapmle.py)
-   3. [Calculation of letter grade]()
+   3. [Calculation of letter grade](https://github.com/nbenlin/beginners-python-examples/blob/master/2-Conditional%20statements/3_example.py)
