@@ -7,7 +7,7 @@
 # If it can't be triangle write on the screen triangle does not specify
 
 # U can use abs() function to find the absolute value.
--------------------------------------------------------------------------------
+# -------------------------------------------------------------------------------
 
 form = input("Your choice is triangle or quadrilateral?")
 
