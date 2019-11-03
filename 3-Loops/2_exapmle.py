@@ -1,4 +1,4 @@
-# Receive number from the user and try to find is it Armstrong number.
+# Take a number from the user and try to find is it Armstrong number.
 # Example to Armstrong number 1634 = 1^4 + 6^4 + 3^4 + 4^4
 
 num = input("Number:")
