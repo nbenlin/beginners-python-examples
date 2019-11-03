@@ -21,3 +21,4 @@
    6. [Even numbers with list comprehension](https://github.com/nbenlin/beginners-python-examples/blob/master/3-Loops/6_example.py)
 
    ### Functions
+   1. [Perfect numver v.2](https://github.com/nbenlin/beginners-python-examples/blob/master/4-Functions/1_example.py)
