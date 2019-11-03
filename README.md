@@ -22,3 +22,4 @@
 
    ### Functions
    1. [Perfect numver v.2](https://github.com/nbenlin/beginners-python-examples/blob/master/4-Functions/1_example.py)
+   2. [Greatest common divisor]()
