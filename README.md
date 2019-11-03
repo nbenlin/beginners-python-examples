@@ -26,4 +26,4 @@
    3. [Least common multiple](https://github.com/nbenlin/beginners-python-examples/blob/master/4-Functions/3_example.py)
    4. [Convert number to string](https://github.com/nbenlin/beginners-python-examples/blob/master/4-Functions/4_example.py)
    5. [Pythagorean triple](https://github.com/nbenlin/beginners-python-examples/blob/master/4-Functions/5_example.py)
-   6. [Guess the number]() 
+   6. [Guess the number](https://github.com/nbenlin/beginners-python-examples/blob/master/4-Functions/6_example.py) 
