@@ -14,3 +14,5 @@
    4. [Geometric shape calculation](https://github.com/nbenlin/beginners-python-examples/blob/master/2-Conditional%20statements/4_example.py)
    ### Loops
    1. [Perfect number](https://github.com/nbenlin/beginners-python-examples/blob/master/3-Loops/1_example.py)
+   2. [Armstrong number]()
+   
