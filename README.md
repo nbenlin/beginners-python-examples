@@ -19,3 +19,5 @@
    4. [Add numbers with loop](https://github.com/nbenlin/beginners-python-examples/blob/master/3-Loops/4_example.py)
    5. [Numbers divided by 3](https://github.com/nbenlin/beginners-python-examples/blob/master/3-Loops/5_example.py)
    6. [Even numbers with list comprehension](https://github.com/nbenlin/beginners-python-examples/blob/master/3-Loops/6_example.py)
+
+   ### Functions
