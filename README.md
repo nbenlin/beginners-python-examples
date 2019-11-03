@@ -15,4 +15,4 @@
    ### Loops
    1. [Perfect number](https://github.com/nbenlin/beginners-python-examples/blob/master/3-Loops/1_example.py)
    2. [Armstrong number](https://github.com/nbenlin/beginners-python-examples/blob/master/3-Loops/2_exapmle.py)
-   3. [The multiplication table]()
+   3. [The multiplication table](https://github.com/nbenlin/beginners-python-examples/blob/master/3-Loops/3_example.py)
