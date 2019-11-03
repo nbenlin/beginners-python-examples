@@ -25,4 +25,4 @@
    2. [Greatest common divisor](https://github.com/nbenlin/beginners-python-examples/blob/master/4-Functions/2_exapmle.py)
    3. [Least common multiple](https://github.com/nbenlin/beginners-python-examples/blob/master/4-Functions/3_example.py)
    4. [Convert number to string](https://github.com/nbenlin/beginners-python-examples/blob/master/4-Functions/4_example.py)
-   5. [Pythagorean triple]()
+   5. [Pythagorean triple](https://github.com/nbenlin/beginners-python-examples/blob/master/4-Functions/5_example.py)
