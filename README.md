@@ -23,4 +23,4 @@
    ### Functions
    1. [Perfect numver v.2](https://github.com/nbenlin/beginners-python-examples/blob/master/4-Functions/1_example.py)
    2. [Greatest common divisor](https://github.com/nbenlin/beginners-python-examples/blob/master/4-Functions/2_exapmle.py)
-   3. [Least common multiple]()
+   3. [Least common multiple](https://github.com/nbenlin/beginners-python-examples/blob/master/4-Functions/3_example.py)
