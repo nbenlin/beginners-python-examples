@@ -14,15 +14,15 @@ def waiting():
 
 class Remote_control():
 
-    def __init__(self, tv_condition = "Off", tv_volume = 0, channel_list = ["TTV"], channel = "TTV"):
-        self.tv_condition = tv_condition
+    def __init__(self, tv_status = "Off", tv_volume = 0, channel_list = ["TTV"], channel = "TTV"):
+        self.tv_status = tv_status
         self.tv_volume = tv_volume
         self.channel_list = channel_list
         self.channel = channel
     
     def tv_on(self):
         
-        if self.tv_condition == "On":
+        if self.tv_status == "On":
             print("TV is already on... . .")
         else:
             print("TV turning on")
@@ -31,12 +31,12 @@ class Remote_control():
 
     def tv_off(self):
 
-        if self.tv_condition == "Off":
+        if self.tv_status == "Off":
             print("TV is already off... . . .")
         else:
             print("TV is shutting down")
             waiting()
-            self.tv_condition = "Off"
+            self.tv_status = "Off"
 
     def volume_settings(self):
 
@@ -76,7 +76,7 @@ class Remote_control():
         return len(self.channel_list)
 
     def __str__(self):
-        return "\nTV condition: {}\nTV volume: {}\nChannel list: {}\nCurrent channel: {}\n".format(self.tv_condition, self.tv_volume, self.channel_list, self.channel)
+        return "\nTV status: {}\nTV volume: {}\nChannel list: {}\nCurrent channel: {}\n".format(self.tv_status, self.tv_volume, self.channel_list, self.channel)
 
 remote_control = Remote_control()   # Here we create the object 
 
