@@ -1,7 +1,14 @@
+import datetime
 from os import system
 from time import sleep
 
-clear = lambda: system('clear')
+clear = lambda: system('cls')
+
+def clock():
+
+    now = datetime.datetime.now()
+    print("Current date and time: ")
+    print(now.strftime("%H:%M:%S")
 
 def wait():
     for i in range(7):
@@ -40,10 +47,6 @@ def calculator():
         
         elif calc_op == "/":
             print("{} + {} = {}".format(num1, num2, num1 / num2))
-        
-def clock():
-
-    
 
 class Computer():
     def __init__(self, comp_stat = "off", screen_stat = "off", volume_stat = 0, app_list=["calculator"], app="desktop"):
@@ -95,20 +98,16 @@ class Computer():
                 print("Wrong choice.")
                 sleep(1)
     
-    def add_new_app(self, app_name):
+    def games(self):
         print("""
               ------------------------------------------
-              --- Available applications to install  ---
+              ---               Games                ---
               ------------------------------------------
-              ---    1.Calculator                    ---
-              ---    2.Clock                         ---
-              ---    3.Snake Game                    ---
-              ---    4.Rock Paper Scissor Game       ---
-              ---    5.Fuel Calculation              ---
+              ---    1.Snake Game                    ---
+              ---    2.Rock Paper Scissor Game       ---
+              ---             Exit (e)               ---
               ------------------------------------------
               """)
-        self.app_list.append(app_name)
-        print("New application was installed")
 
     def __len__(self):
         
@@ -124,11 +123,12 @@ class Computer():
             
             answer = input("""
               ------------------------------------------
-              ---       Tools                        ---
+              ---              Tools                 ---
               ------------------------------------------
-              ---    1. Calculator                   ---
-              ---    2. Clock                        ---
-              ---          Exit (e)                  ---
+              ---    1.Calculator                    ---
+              ---    2.Clock                         ---
+              ---    3.Fuel Calculation              ---                        ---
+              ---             Exit (e)               ---
               ------------------------------------------
              """)
             
@@ -165,9 +165,29 @@ while True:
     operation = input("Select the operation:")
 
     if operation == "1":
+    
+        asus.tools_menu()
+    
+    elif operation == "2":
+    
+        asus.games()
 
+    elif operation == "3":
 
+        ####
+    
+    elif operation == "4":
+        
+        ####
 
+    elif operation == "5":
 
+        ####
 
+    elif operation == "6":
 
+        ####
+
+    else:
+
+        ####
