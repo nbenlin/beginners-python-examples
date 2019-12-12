@@ -30,3 +30,4 @@
 
    ### Classes / Objects
    1. [TV remote control](https://github.com/nbenlin/beginners-python-examples/blob/master/5-Classes%20Objects/1_example.py)
+   2. [Computer](https://github.com/nbenlin/beginners-python-examples/blob/master/5-Classes%20Objects/2_exapmle.py)
